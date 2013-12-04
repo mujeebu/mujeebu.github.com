@@ -10,5 +10,3 @@
 		allow from all
 	</Directory>
 </VirtualHost>
-
-
